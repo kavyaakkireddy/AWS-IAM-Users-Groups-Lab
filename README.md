@@ -9,5 +9,3 @@ The AWS IAM Users and Groups Management practical demonstrates the assignment of
 - **user-3:** Permission to describe, start, and stop EC2 instances through the EC2-Admin group.
 
 Thus, the practical illustrates role-based access control and the principle of least privilege in AWS IAM.
-
-**Note:** The results above describe the expected behavior. Actual execution and permission verification are pending access to an AWS lab.
